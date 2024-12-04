@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Collection"/>
+	<classpathentry kind="src" path="CollectionAssignment"/>
+	<classpathentry kind="src" path="Array"/>
+	<classpathentry kind="src" path="FileHandling"/>
+	<classpathentry kind="src" path="MultiThreading"/>
+	<classpathentry kind="src" path="DailyTask"/>
+	<classpathentry kind="src" path="ObjectClass"/>
+	<classpathentry kind="src" path="Generics"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
