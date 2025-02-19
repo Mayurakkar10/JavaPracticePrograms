@@ -9,6 +9,9 @@
 	<classpathentry kind="src" path="DailyTask"/>
 	<classpathentry kind="src" path="ObjectClass"/>
 	<classpathentry kind="src" path="Generics"/>
+	<classpathentry kind="src" path="MultiThreadingPractice"/>
+	<classpathentry kind="src" path="RecursionQuestions"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="MultiThreadingPractice2"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
